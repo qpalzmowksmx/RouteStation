@@ -2,3 +2,12 @@
 *.apk
 *.ap_
 /build/
+
+/.idea
+/routeStation
+/.gradle
+/local.properties
+/.idea/
+.DS_Store
+/.vscode/
+/routeStation1
